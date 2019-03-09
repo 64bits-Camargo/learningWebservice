@@ -1,1 +1,4 @@
-# Manipulando API Web
+# Entendo o que é uma API:
+**API** é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou  plataforma baseado na Web. A sigla **API** refere-se ao termo em inglês “Application Programming Interface” que significa em português “Interface de Programação de Aplicativos”.
+
+**Web Service** é uma solução utilizada na integração de sistemas e na comunicação entre aplicações diferentes. Com esta tecnologia é possível que novas aplicações possam interagir com aquelas que já existem e que sistemas desenvolvidos em plataformas diferentes sejam compatíveis. Os Web Services são componentes que permitem às aplicações enviar e receber dados. Cada aplicação pode ter a sua própria “linguagem”, que é traduzida para uma linguagem universal, um formato intermediário como XML, Json, CSV, etc.
